@@ -1,0 +1,5 @@
+Task:
+#1. Read a floating type array and display its squared values.
+Create a seperate function to read, display and square the elements of the array. Use the concept of pass by reference, pointer.
+
+#2. Create another function, calculateSD() that calculates the Standard deviation(SD) of the above array of floating type values. Implement it in the main body.
